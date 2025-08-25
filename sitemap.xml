@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created manually based on your subject pages -->
+
+<url>
+  <loc>https://js.eshwarkingrani.com/</loc>
+</url>
+
+<!-- Grade 5 -->
+<url><loc>https://js.eshwarkingrani.com/fiveeng</loc></url>
+<url><loc>https://js.eshwarkingrani.com/fivemath</loc></url>
+<url><loc>https://js.eshwarkingrani.com/fivecomputer</loc></url>
+<url><loc>https://js.eshwarkingrani.com/fivescience</loc></url>
+<url><loc>https://js.eshwarkingrani.com/fiveisl</loc></url>
+<url><loc>https://js.eshwarkingrani.com/fivehind</loc></url>
+
+<!-- Grade 7-8 -->
+<url><loc>https://js.eshwarkingrani.com/seveneng</loc></url>
+<url><loc>https://js.eshwarkingrani.com/sevenmath</loc></url>
+<url><loc>https://js.eshwarkingrani.com/7cs</loc></url>
+<url><loc>https://js.eshwarkingrani.com/7science</loc></url>
+<url><loc>https://js.eshwarkingrani.com/7isl</loc></url>
+<url><loc>https://js.eshwarkingrani.com/7hind</loc></url>
+
+<!-- O Levels -->
+<url><loc>https://js.eshwarkingrani.com/oeng</loc></url>
+<url><loc>https://js.eshwarkingrani.com/ocs</loc></url>
+<url><loc>https://js.eshwarkingrani.com/obio</loc></url>
+<url><loc>https://js.eshwarkingrani.com/ophy</loc></url>
+<url><loc>https://js.eshwarkingrani.com/omath</loc></url>
+<url><loc>https://js.eshwarkingrani.com/oche</loc></url>
+<url><loc>https://js.eshwarkingrani.com/oisl</loc></url>
+<url><loc>https://js.eshwarkingrani.com/ohin</loc></url>
+<url><loc>https://js.eshwarkingrani.com/oaccounting</loc></url>
+<url><loc>https://js.eshwarkingrani.com/obusniess</loc></url>
+
+<!-- A Levels -->
+<url><loc>https://js.eshwarkingrani.com/aeng</loc></url>
+<url><loc>https://js.eshwarkingrani.com/acs</loc></url>
+<url><loc>https://js.eshwarkingrani.com/abio</loc></url>
+<url><loc>https://js.eshwarkingrani.com/aphy</loc></url>
+<url><loc>https://js.eshwarkingrani.com/amath</loc></url>
+<url><loc>https://js.eshwarkingrani.com/achemistry</loc></url>
+<url><loc>https://js.eshwarkingrani.com/aacc</loc></url>
+<url><loc>https://js.eshwarkingrani.com/abus</loc></url>
+
+</urlset>
