@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://js.eshwarkingrani.com/sitemap.xml
